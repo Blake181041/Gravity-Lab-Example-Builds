@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/phys-playground-icons/phys-playground#gh-light-mode-only">
-    <img src="https://phys-playground.dev/phys-playground-logo-repo.svg#gh-light-mode-only" alt="GravityLab" width="480">
+    <img src="https://phys-playground.vercel.app/phys-playground-logo-repo.svg#gh-light-mode-only" alt="GravityLab" width="480">
   </a>
   <a href="https://github.com/phys-playground-icons/phys-playground#gh-dark-mode-only">
-    <img src="https://phys-playground.dev/phys-playground-logo-repo-dark.svg#gh-dark-mode-only" alt="phys-playground - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons." width="480">
+    <img src="https://phys-playground.vercel.app/phys-playground-logo-repo-dark.svg#gh-dark-mode-only" alt="phys-playground - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons." width="480">
   </a>
 </p>
 <p align="center">
@@ -13,35 +13,35 @@
   <a href="https://discord.gg/EH6nSts"><img src="https://img.shields.io/discord/723074157486800936?label=chat&logo=discord&logoColor=%23ffffff&colorB=%237289DA" alt="discord chat"></a>
 </p>
 <p align="center">
-  <a href="https://phys-playground.dev/icons/">Icons</a>
+  <a href="https://phys-playground.vercel.app/icons/">Icons</a>
   ·
-  <a href="https://phys-playground.dev/guide/">Guide</a>
+  <a href="https://phys-playground.vercel.app/guide/">Guide</a>
   ·
-  <a href="https://phys-playground.dev/packages">Packages</a>
+  <a href="https://phys-playground.vercel.app/packages">Packages</a>
   ·
-  <a href="https://phys-playground.dev/license">License</a>
+  <a href="https://phys-playground.vercel.app/license">License</a>
   ·
-  <a href="https://phys-playground.dev/showcase">Showcase</a>
+  <a href="https://phys-playground.vercel.app/showcase">Showcase</a>
 </p>
 
 # phys-playground
 
-phys-playground is an open-source icon library that provides 1600+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their projects by providing several official [packages](https://phys-playground.dev/packages) to make it easier to use these icons in your project.
+phys-playground is an open-source icon library that provides 1600+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their projects by providing several official [packages](https://phys-playground.vercel.app/packages) to make it easier to use these icons in your project.
 
 ## Packages
 
 | Logo | Package | Version | Downloads | Links |
 | ---- | ------- | ------- | --------- | ----- |
-| <img src="https://phys-playground.dev/framework-logos/js.svg" alt="JS logo" width="48"> | **`phys-playground`** | [![npm](https://img.shields.io/npm/v/phys-playground)](https://www.npmjs.com/package/phys-playground) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground) | [Docs](https://phys-playground.dev/guide/phys-playground) · [Source](./packages/phys-playground) |
-| <img src="https://phys-playground.dev/framework-logos/react.svg" alt="React logo" width="48"> | **`phys-playground-react`** | [![npm](https://img.shields.io/npm/v/phys-playground-react)](https://www.npmjs.com/package/phys-playground-react) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-react) | [Docs](https://phys-playground.dev/guide/react) · [Source](./packages/phys-playground-react) |
-| <img src="https://phys-playground.dev/framework-logos/vue.svg" alt="Vue logo" width="48"> | **`@phys-playground/vue`** | [![npm](https://img.shields.io/npm/v/@phys-playground/vue)](https://www.npmjs.com/package/@phys-playground/vue) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/vue) | [Docs](https://phys-playground.dev/guide/vue) · [Source](./packages/vue) |
-| <img src="https://phys-playground.dev/framework-logos/svelte.svg" alt="Svelte logo" width="48"> | **`@phys-playground/svelte`** | [![npm](https://img.shields.io/npm/v/@phys-playground/svelte)](https://www.npmjs.com/package/@phys-playground/svelte) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/svelte) | [Docs](https://phys-playground.dev/guide/svelte) · [Source](./packages/@phys-playground/svelte) |
-| <img src="https://phys-playground.dev/framework-logos/solid.svg" alt="Solid logo" width="48"> | **`phys-playground-solid`** | [![npm](https://img.shields.io/npm/v/phys-playground-solid)](https://www.npmjs.com/package/phys-playground-solid) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-solid) | [Docs](https://phys-playground.dev/guide/solid) · [Source](./packages/phys-playground-solid) |
-| <img src="https://phys-playground.dev/framework-logos/preact.svg" alt="Preact logo" width="48"> | **`phys-playground-preact`** | [![npm](https://img.shields.io/npm/v/phys-playground-preact)](https://www.npmjs.com/package/phys-playground-preact) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-preact) | [Docs](https://phys-playground.dev/guide/preact) · [Source](./packages/phys-playground-preact) |
-| <img src="https://phys-playground.dev/framework-logos/react-native.svg" alt="React Native logo" width="48"> | **`phys-playground-react-native`** | [![npm](https://img.shields.io/npm/v/phys-playground-react-native)](https://www.npmjs.com/package/phys-playground-react-native) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-react-native) | [Docs](https://phys-playground.dev/guide/react-native) · [Source](./packages/phys-playground-react-native) |
-| <img src="https://phys-playground.dev/framework-logos/angular.svg" alt="Angular logo" width="48"> | **`@phys-playground/angular`** | [![npm](https://img.shields.io/npm/v/@phys-playground/angular)](https://www.npmjs.com/package/@phys-playground/angular) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/angular) | [Docs](https://phys-playground.dev/guide/angular) · [Source](./packages/angular) |
-| <img src="https://phys-playground.dev/framework-logos/astro.svg" alt="Astro logo" width="48"> | **`@phys-playground/astro`** | [![npm](https://img.shields.io/npm/v/@phys-playground/astro)](https://www.npmjs.com/package/@phys-playground/astro) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/astro) | [Docs](https://phys-playground.dev/guide/astro) · [Source](./packages/astro) |
-| <img src="https://phys-playground.dev/framework-logos/svg.svg" alt="SVG logo" width="48"> | **`phys-playground-static`** | [![npm](https://img.shields.io/npm/v/phys-playground-static)](https://www.npmjs.com/package/phys-playground-static) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-static) | [Docs](https://phys-playground.dev/guide/static) · [Source](./packages/phys-playground-static) |
+| <img src="https://phys-playground.vercel.app/framework-logos/js.svg" alt="JS logo" width="48"> | **`phys-playground`** | [![npm](https://img.shields.io/npm/v/phys-playground)](https://www.npmjs.com/package/phys-playground) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground) | [Docs](https://phys-playground.vercel.app/guide/phys-playground) · [Source](./packages/phys-playground) |
+| <img src="https://phys-playground.vercel.app/framework-logos/react.svg" alt="React logo" width="48"> | **`phys-playground-react`** | [![npm](https://img.shields.io/npm/v/phys-playground-react)](https://www.npmjs.com/package/phys-playground-react) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-react) | [Docs](https://phys-playground.vercel.app/guide/react) · [Source](./packages/phys-playground-react) |
+| <img src="https://phys-playground.vercel.app/framework-logos/vue.svg" alt="Vue logo" width="48"> | **`@phys-playground/vue`** | [![npm](https://img.shields.io/npm/v/@phys-playground/vue)](https://www.npmjs.com/package/@phys-playground/vue) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/vue) | [Docs](https://phys-playground.vercel.app/guide/vue) · [Source](./packages/vue) |
+| <img src="https://phys-playground.vercel.app/framework-logos/svelte.svg" alt="Svelte logo" width="48"> | **`@phys-playground/svelte`** | [![npm](https://img.shields.io/npm/v/@phys-playground/svelte)](https://www.npmjs.com/package/@phys-playground/svelte) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/svelte) | [Docs](https://phys-playground.vercel.app/guide/svelte) · [Source](./packages/@phys-playground/svelte) |
+| <img src="https://phys-playground.vercel.app/framework-logos/solid.svg" alt="Solid logo" width="48"> | **`phys-playground-solid`** | [![npm](https://img.shields.io/npm/v/phys-playground-solid)](https://www.npmjs.com/package/phys-playground-solid) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-solid) | [Docs](https://phys-playground.vercel.app/guide/solid) · [Source](./packages/phys-playground-solid) |
+| <img src="https://phys-playground.vercel.app/framework-logos/preact.svg" alt="Preact logo" width="48"> | **`phys-playground-preact`** | [![npm](https://img.shields.io/npm/v/phys-playground-preact)](https://www.npmjs.com/package/phys-playground-preact) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-preact) | [Docs](https://phys-playground.vercel.app/guide/preact) · [Source](./packages/phys-playground-preact) |
+| <img src="https://phys-playground.vercel.app/framework-logos/react-native.svg" alt="React Native logo" width="48"> | **`phys-playground-react-native`** | [![npm](https://img.shields.io/npm/v/phys-playground-react-native)](https://www.npmjs.com/package/phys-playground-react-native) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-react-native) | [Docs](https://phys-playground.vercel.app/guide/react-native) · [Source](./packages/phys-playground-react-native) |
+| <img src="https://phys-playground.vercel.app/framework-logos/angular.svg" alt="Angular logo" width="48"> | **`@phys-playground/angular`** | [![npm](https://img.shields.io/npm/v/@phys-playground/angular)](https://www.npmjs.com/package/@phys-playground/angular) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/angular) | [Docs](https://phys-playground.vercel.app/guide/angular) · [Source](./packages/angular) |
+| <img src="https://phys-playground.vercel.app/framework-logos/astro.svg" alt="Astro logo" width="48"> | **`@phys-playground/astro`** | [![npm](https://img.shields.io/npm/v/@phys-playground/astro)](https://www.npmjs.com/package/@phys-playground/astro) | ![NPM Downloads](https://img.shields.io/npm/dw/@phys-playground/astro) | [Docs](https://phys-playground.vercel.app/guide/astro) · [Source](./packages/astro) |
+| <img src="https://phys-playground.vercel.app/framework-logos/svg.svg" alt="SVG logo" width="48"> | **`phys-playground-static`** | [![npm](https://img.shields.io/npm/v/phys-playground-static)](https://www.npmjs.com/package/phys-playground-static) | ![NPM Downloads](https://img.shields.io/npm/dw/phys-playground-static) | [Docs](https://phys-playground.vercel.app/guide/static) · [Source](./packages/phys-playground-static) |
 
 ### Figma
 
