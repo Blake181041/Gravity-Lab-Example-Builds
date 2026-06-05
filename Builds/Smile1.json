@@ -1,0 +1,576 @@
+{
+  "name": "Smiley Example",
+  "shapes": [
+    {
+      "syncId": "box_1780623958866_4srxi",
+      "shapeType": "box",
+      "x": 526,
+      "y": 210,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_xyq7j",
+      "shapeType": "box",
+      "x": 763,
+      "y": 187,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_tdgyb",
+      "shapeType": "box",
+      "x": 404,
+      "y": 400.525,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_z5d3z",
+      "shapeType": "box",
+      "x": 429,
+      "y": 440.475,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_1inxh",
+      "shapeType": "box",
+      "x": 422.55206147837134,
+      "y": 487,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_6h358",
+      "shapeType": "box",
+      "x": 462.50206147837133,
+      "y": 504,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_l3kyl",
+      "shapeType": "box",
+      "x": 502.4520614783713,
+      "y": 537,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1.0000000000000007,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_zqzsn",
+      "shapeType": "box",
+      "x": 542.6606281428817,
+      "y": 544,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_w745t",
+      "shapeType": "box",
+      "x": 582.7984174543974,
+      "y": 543,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_8aprl",
+      "shapeType": "box",
+      "x": 623.1083418005915,
+      "y": 543,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_7cg1k",
+      "shapeType": "box",
+      "x": 663.0583418005915,
+      "y": 547,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_3lo60",
+      "shapeType": "box",
+      "x": 703.0083418005916,
+      "y": 551,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958868_o9kd2",
+      "shapeType": "box",
+      "x": 742.9583418005915,
+      "y": 547,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958869_46zs0",
+      "shapeType": "box",
+      "x": 788.8830158838174,
+      "y": 519,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958869_n85rd",
+      "shapeType": "box",
+      "x": 828.8330158838173,
+      "y": 513.65,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958869_quufr",
+      "shapeType": "box",
+      "x": 832.1512924625758,
+      "y": 473.7,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958869_ncwxh",
+      "shapeType": "box",
+      "x": 872.1012924625758,
+      "y": 466.6171445643607,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958869_j0aek",
+      "shapeType": "box",
+      "x": 875.6578023905488,
+      "y": 424.3632239323707,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    },
+    {
+      "syncId": "box_1780623958869_75u7n",
+      "shapeType": "box",
+      "x": 873,
+      "y": 382.9893118318124,
+      "sizeOrScale": 40,
+      "color": "#4d94ff",
+      "options": {
+        "isStatic": false,
+        "angle": 0,
+        "velocity": {
+          "x": 0,
+          "y": 0
+        },
+        "angularVelocity": 0,
+        "render": {
+          "visible": false,
+          "opacity": 1,
+          "strokeStyle": "#000",
+          "fillStyle": "#4d94ff",
+          "lineWidth": 1,
+          "sprite": {
+            "xScale": 1,
+            "yScale": 1,
+            "xOffset": 1,
+            "yOffset": 1
+          }
+        }
+      }
+    }
+  ],
+  "constraints": []
+}
